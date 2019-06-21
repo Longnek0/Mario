@@ -1,0 +1,6 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\buvuser\Desktop\Mario\Mario\Mario\SDL\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\buvuser\Desktop\Mario\Mario\Mario\SDL\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+SDL\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+SDL\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\buvuser\Desktop\Mario\Mario\Debug\Mario.exe : fatal error LNK1120: 1 unresolved externals
